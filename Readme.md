@@ -1,12 +1,7 @@
-`NGram Auto-complete `{.western}
+NGram Auto-complete
 
-\
-
-`1. Configure MySql`{.western}
-
-`$ cd /usr/local/mysql/bin/ `{.western}
-
-``` {.western}
+1. Configure MySql
+$ cd /usr/local/mysql/bin/ 
 $ ./mysql -uroot -p
 
 2. Create data base
@@ -63,8 +58,7 @@ Follow the instruction:
 http://www.bewebdeveloper.com/tutorial-about-autocomplete-using-php-mysql-and-jquery
 
 
-
-
+![alt text](https://raw.githubusercontent.com/flydom2/autocomplete/master/pics/pic.png)
 
 
 
