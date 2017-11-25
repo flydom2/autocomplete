@@ -1,12 +1,8 @@
-`NGram Auto-complete `{.western}
-
-\
-
-`1. Configure MySql`{.western}
-
-`$ cd /usr/local/mysql/bin/ `{.western}
+***NGram Auto-complete***
 
 ``` {.western}
+1. Configure MySql
+$ cd /usr/local/mysql/bin/
 $ ./mysql -uroot -p
 
 2. Create data base
@@ -61,10 +57,9 @@ $ hadoop jar ngram.jar Driver input /output 2 3 4
 10. Set Auto-Complete User Interface
 Follow the instruction: 
 http://www.bewebdeveloper.com/tutorial-about-autocomplete-using-php-mysql-and-jquery
-
-
-
-
+```
+User Interface:
+![alt text](https://raw.githubusercontent.com/flydom2/autocomplete/master/pics/pic.png)
 
 
 
